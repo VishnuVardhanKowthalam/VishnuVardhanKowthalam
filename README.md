@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Chemical Engineering, computer programming.
 - 💼 &nbsp; front-end web developer.
 - 🌱 &nbsp; Enthusiast in web-development.
-- ✍️ &nbsp; Watching Anime and trying out the latest design trends as hobbies/side hustles.
+- ✍️ &nbsp; Watching Anime and playing cricket.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
